@@ -17,21 +17,25 @@ This organization ensures a clear and comprehensive understanding of the system.
 
 The SAFE Team web application aims to **enhance and modernize USF’s current phone-based ride request system** by introducing **real-time tracking, wait time estimates, and notifications**. It operates independently but aligns with **USF’s campus safety and transportation services**. While not dependent on other software, it may integrate with **Google Maps API** for location tracking, improving service efficiency and user experience.  
 
-## 4. [Functional Requirements](https://github.com/orgs/cen4020-devstorm/projects/3/views/3?filterQuery=-role%3A%22Non-functional%22&visibleFields=%5B%22Title%22%2C170702992%2C170703498%2C170704266%2C170704320%2C170704058%2C170704441%2C%22Status%22%5D)  
+## 4. Functional Requirements
 
 The system must:  
 - Allow students to request SAFE Team rides through a web interface.  
 - Provide real-time tracking of SAFE Team vehicles.  
 - Send notifications when a ride is nearby.  
-- Display estimated wait times based on ride availability.  
+- Display estimated wait times based on ride availability.
 
-## 5. Non-Functional Requirements  
+For a detailed list of functional requirements, view them in the [Functional Requirements Board](https://github.com/orgs/cen4020-devstorm/projects/3/views/3?filterQuery=-role%3A%22Non-functional%22&visibleFields=%5B%22Title%22%2C170702992%2C170703498%2C170704266%2C170704320%2C170704058%2C170704441%2C%22Status%22%5D)  
+
+## 5. Non-Functional Requirements
 
 The system must:  
 - Ensure **high availability** and minimal downtime.  
 - Provide an **intuitive** and **user-friendly** interface.  
 - Support a **secure authentication** system for user accounts.  
-- Be **scalable** to handle an increasing number of users.  
+- Be **scalable** to handle an increasing number of users.
+
+For a detailed list of non-functional requirements, view them in the [Non-Functional Requirements Board](https://github.com/orgs/cen4020-devstorm/projects/3/views/4?filterQuery=role%3A%22Non-functional%22&visibleFields=%5B%22Title%22%2C%22Status%22%2C170703498%2C170702992%2C170703837%2C170704058%5D)
 
 ## 6. Defined Terms  
 
