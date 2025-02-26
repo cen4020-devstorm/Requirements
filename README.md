@@ -19,21 +19,24 @@ The SAFE Team web application aims to **enhance and modernize USF’s current ph
 
 ## 4. Functional Requirements
 
-The system must:  
-- Allow students to request SAFE Team rides through a web interface.  
-- Provide real-time tracking of SAFE Team vehicles.  
-- Send notifications when a ride is nearby.  
-- Display estimated wait times based on ride availability.
+Category      | Priority | The system shall...
+--------------|---------|------------------------------------------
+Mandatory     | 1       | Allow students to request SAFE Team rides through a web interface.
+Mandatory     | 2       | Provide real-time tracking of SAFE Team vehicles.
+Mandatory     | 3       | Send notifications when a ride is nearby.
+Mandatory     | 2       | Display estimated wait times based on ride availability.
+
 
 For a detailed list of functional requirements, view them in the [Functional Requirements Board](https://github.com/orgs/cen4020-devstorm/projects/3/views/3?filterQuery=-role%3A%22Non-functional%22&visibleFields=%5B%22Title%22%2C170702992%2C170703498%2C170704266%2C170704320%2C170704058%2C170704441%2C%22Status%22%5D)  
 
 ## 5. Non-Functional Requirements
 
-The system must:  
-- Ensure **high availability** and minimal downtime.  
-- Provide an **intuitive** and **user-friendly** interface.  
-- Support a **secure authentication** system for user accounts.  
-- Be **scalable** to handle an increasing number of users.
+Category      | Priority |  Requirements
+--------------|---------|------------------------------------------
+Mandatory     | 1       | Availability: The system must ensure high availability and minimal downtime.
+Mandatory     | 2       | Usability: The system must provide an intuitive and user-friendly interface.
+Mandatoru     | 3       | Security: The system must support a secure authentication system for user accounts.
+Mandatory     | 3       | Capacity: The system must be able to handle an increasing number of users without significant degradation.
 
 For a detailed list of non-functional requirements, view them in the [Non-Functional Requirements Board](https://github.com/orgs/cen4020-devstorm/projects/3/views/4?filterQuery=role%3A%22Non-functional%22&visibleFields=%5B%22Title%22%2C%22Status%22%2C170703498%2C170702992%2C170703837%2C170704058%5D)
 
